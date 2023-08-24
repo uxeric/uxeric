@@ -1,6 +1,6 @@
 ## Profile
 - 👋 Hi, I’m @uxeric
-- 💞️ I’m interested in everything javascript & machine learning
+- 💞️ I’m interested in everything javascript, machine learning, and Web 3
 - 👀 I’m looking to collaborate on fun Vue or React projects
 
 ## What's on my mind
