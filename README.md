@@ -1,7 +1,7 @@
 ## Profile
 - 👋 Hi, I’m @uxeric
-- 💞️ I’m interested in everything javascript, machine learning, and Web 3
-- 👀 I’m looking to collaborate on fun Vue or React projects
+- 💞️ I’m interested in everything javascript, machine learning, and Web 3/2.5
+- 👀 I’m looking to collaborate on fun Vue or React projects that leverage LLMs
 
 ## What's on my mind
 - The cool kids were right about Tailwind
