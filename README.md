@@ -4,8 +4,7 @@
 - 👀 I’m looking to collaborate on fun Vue or React projects that leverage LLMs
 
 ## What's on my mind
-- Is HTMX the way?
-- The cool kids were right about Tailwind
+- Is HTMX + Golang the way?
 - Will we outright remove the first few rungs of the development ladder with projects like GPT-Engineer and SMOL Developer?
 - Do projects like Svelte and Astro have staying power? Or will their effect be to influcence the React and Nuxt ecosystems and then fade away.
 - Are we on the path to Web 3? Could [Web 2.5](https://github.com/socketsupply) be the route that leads us there?
